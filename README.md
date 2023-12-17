@@ -11,9 +11,6 @@
   <a href="https://instagram.com/amirtha_varshan_" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" height="60" alt="instagram logo"  />
   </a>
-  <a href="https://leetcode.com/Azeemudeen/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
-  </a>
   <a href="mailto:@amirthavarshan25@gmail.com" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" height="60" alt="gmail logo"  />
   </a>
