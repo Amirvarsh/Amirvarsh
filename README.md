@@ -25,7 +25,7 @@ Software Developer
 I love code!
 
 *   🌍  I'm based in TamilNadu
-*   🖥️  See my portfolio at [My Portfolio]([http://shorturl.at/oDKLN](https://varshanportfolio-2d9a2.web.app/))
+*   🖥️  See my portfolio at [My Portfolio]([https://varshanportfolio-2d9a2.web.app/])
 *   ✉️  You can contact me at [amirthavarshan25@gmail.com](mailto:amirthavarshan25@gmail.com)
 *   🧠  I'm learning .Net, Javascript, React.
 
