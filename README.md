@@ -11,11 +11,9 @@
   <a href="https://instagram.com/amirtha_varshan_" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" height="60" alt="instagram logo"  />
   </a>
-  <div style="border-radius: 50%;object-fit: cover;">
-      <a href="mailto:@amirthavarshan25@gmail.com" target="_blank" >
-        <img src="https://raw.githubusercontent.com/Amirvarsh/icons-package/main/message.gif" height="60" alt="gmail logo"  />
-      </a>
-  </div>
+  <a href="mailto:@amirthavarshan25@gmail.com" target="_blank" >
+    <img src="https://raw.githubusercontent.com/Amirvarsh/icons-package/main/message.gif" height="50" alt="gmail logo"  />
+  </a>
 </div>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amirtha Varshan
@@ -120,8 +118,8 @@ I love code!
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amirvarsh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1&custom_title=Stats" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Amirvarsh&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amirvarsh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1&custom_title=Stats" height="200" alt="stats graph"  /> <br />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=Amirvarsh&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 ###
