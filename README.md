@@ -12,7 +12,12 @@
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" height="60" alt="instagram logo"  />
   </a>
   <a href="mailto:@amirthavarshan25@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/Amirvarsh/icons-package/main/message.gif" height="60" style="background: transparent; mix-blend-mode: multiply;" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/Amirvarsh/icons-package/main/message.gif" height="60" style="
+      border-radius: 50%;
+      object-fit: cover;
+      background: transparent;
+      mix-blend-mode: multiply;
+    " alt="gmail logo"  />
   </a>
 </div>
 
