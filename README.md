@@ -11,9 +11,7 @@
   <a href="https://instagram.com/amirtha_varshan_" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" height="60" alt="instagram logo"  />
   </a>
-  <a href="mailto:@amirthavarshan25@gmail.com" target="_blank" style="
-      border-radius: 50%;
-      object-fit: cover;">
+  <a href="mailto:@amirthavarshan25@gmail.com" target="_blank" style="border-radius: 50%;object-fit: cover;">
     <img src="https://raw.githubusercontent.com/Amirvarsh/icons-package/main/message.gif" height="60" alt="gmail logo"  />
   </a>
 </div>
